@@ -1,5 +1,5 @@
-<br>01. Site taslağım bieysel projeden hazırdı ve ordan aldım.<br>
-<br>02. Videoları siteye koydum.<br>
-<br>03. Site içeriğini siteye koydum.<br>
-<br>04. Site içerisinde dizin klasör düzenlemelerimi yeniden oluştrdum.<br>
-<br>15. Site herşeyiyle hazır hale getirdim.<br>
+<br>01. Site taslaÄŸÄ±m bireysel projeden hazÄ±rdÄ± ve ordan aldÄ±m. (Burak CantÃ¼rk)<br>
+<br>02. VideolarÄ± siteye koydum. (Burak CantÃ¼rk)<br>
+<br>03. Site iÃ§eriÄŸini siteye koydum. (Burak CantÃ¼rk)<br>
+<br>04. Site iÃ§erisinde dizin klasÃ¶r dÃ¼zenlemelerimi yeniden oluÅŸturdum.(Mutlu Yavuz)<br>
+<br>15. Site herÅŸeyiyle hazÄ±r hale getirdim.(Burak CantÃ¼rk)<br>
